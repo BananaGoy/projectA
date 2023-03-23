@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    color: white;
+    background: rgb(34, 57, 80);
+    font-family: Helvetica;
+}
+
+header {
+    background: black;
+}
+
+section {
+    background: gray;
+}
+
+footer {
+    background: white;
+}
